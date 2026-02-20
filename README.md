@@ -15,7 +15,7 @@ userid - 732275651385753753 (@tezzybtw on discord)
 
 
 # launcher he skidded (Erbium launcher) he claimed he made it himself in a vc but i didnt record it like a dumbass
-![erbium](https://r2.e-z.host/8ab6bc28-292f-41ff-9006-b08ed596dd17/elsn6ue0.mp4)
+https://femboy.pw/elsn6ue0.mp4
 
 # erbium launcher he skidded
 <img width="1142" height="656" alt="erbium launcher he skidded 1" src="https://github.com/user-attachments/assets/f3b6b052-6292-42a1-b483-c49ea39cc5cd" />
