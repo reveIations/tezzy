@@ -12,3 +12,13 @@ userid - 732275651385753753 (@tezzybtw on discord)
 
 # nazi gif, idk why he has this saved
 ![tezzy2](https://github.com/user-attachments/assets/5c8d5336-31c9-45d5-b713-1adcfd7ac40a)
+
+
+# launcher he skidded (Erbium launcher) he claimed he made it himself in a vc but i didnt record it like a dumbass
+![erbium](https://r2.e-z.host/8ab6bc28-292f-41ff-9006-b08ed596dd17/elsn6ue0.mp4)
+
+# erbium launcher he skidded
+<img width="1142" height="656" alt="erbium launcher he skidded 1" src="https://github.com/user-attachments/assets/f3b6b052-6292-42a1-b483-c49ea39cc5cd" />
+<img width="1126" height="649" alt="erbium launcher he skidded 2" src="https://github.com/user-attachments/assets/6d271a68-5c23-4fc1-bba0-8fd8caed41b1" />
+<img width="1127" height="652" alt="erbium launcher he skidded 3" src="https://github.com/user-attachments/assets/648837dd-c81b-44fd-8e95-3ecf4b3dfaf7" />
+<img width="1139" height="651" alt="erbium launcher he skidded 4" src="https://github.com/user-attachments/assets/c2dd7509-3368-477d-8850-f7d2665e5cb0" />
