@@ -1,5 +1,6 @@
 userid - 732275651385753753 (@tezzybtw on discord)
 
+thanks vxcn and luxx for the help
 
 # Dodging a simple question
 ![togif](https://github.com/user-attachments/assets/6f69641c-1043-470c-9b41-16facfdb2f7b)
