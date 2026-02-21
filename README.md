@@ -1,4 +1,6 @@
 userid - 732275651385753753 (@tezzybtw on discord)
+https://github.com/tezzybtw github
+https://tezzybtw.vercel.app (his biopage, fully ai generated if u can look at it)
 
 thanks vxcn and luxx for the help
 
