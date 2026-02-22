@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -982,11 +984,6 @@ async function getViews() {
         const w = window.outerWidth - window.innerWidth > 160;
         const h = window.outerHeight - window.innerHeight > 160;
         if (w || h) blk();
-    };
-    
-    const blk = () => {
-        document.addEventListener('keydown', ev => ev.preventDefault(), true);
-        document.addEventListener('contextmenu', ev => ev.preventDefault(), true);
     };
     
     document.addEventListener('contextmenu', ev => ev.preventDefault());
