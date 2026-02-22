@@ -1,6 +1,6 @@
-userid - 732275651385753753 (@tezzybtw on discord)
-https://github.com/tezzybtw github
-https://tezzybtw.vercel.app (his biopage, fully ai generated if u can look at it)
+userid - 732275651385753753 (@3kgw on discord)
+https://github.com/F3XR github
+https://tezzybtw.vercel.app (his biopage, fully ai generated if u can look at it), edit: he took it down as of 2/21/2026 10:33 PM
 
 Also i added his pasted backend to the github for you skids! (https://github.com/reveIations/tezzy/raw/refs/heads/main/Solar%20Backend.zip)
 
