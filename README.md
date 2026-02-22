@@ -6,6 +6,7 @@ he might take it down after this but u can just compare his repos and the people
 
 
 new github - https://github.com/sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfdfsdf
+# https://api.github.com/user/184765779 (IF YOU WANNA FIND HIS GITHUB YOURSELF)
 
 https://tezzybtw.vercel.app (his biopage, fully ai generated if u can look at it), edit: he took it down as of 2/21/2026 10:33 PM
 
