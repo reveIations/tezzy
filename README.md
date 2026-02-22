@@ -1,7 +1,7 @@
 userid - 732275651385753753 (@3kgw on discord, you can compare uids)
 also proves this is tezzy:
 
-he might take it down after this but u can just compare his repos yuh
+he might take it down after this but u can just compare his repos and the people he follows and the people that follow him
 <img width="972" height="576" alt="image" src="https://github.com/user-attachments/assets/fa2aa849-c5c4-4e35-8a9b-a154daff94d0" />
 
 
