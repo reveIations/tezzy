@@ -1,8 +1,9 @@
 userid - 732275651385753753 (@3kgw on discord, you can compare uids)
 also proves this is tezzy:
 
-<img width="972" height="576" alt="image" src="https://github.com/user-attachments/assets/fa2aa849-c5c4-4e35-8a9b-a154daff94d0" />
 he might take it down after this but u can just compare his repos yuh
+<img width="972" height="576" alt="image" src="https://github.com/user-attachments/assets/fa2aa849-c5c4-4e35-8a9b-a154daff94d0" />
+
 
 https://github.com/F3XR github
 https://tezzybtw.vercel.app (his biopage, fully ai generated if u can look at it), edit: he took it down as of 2/21/2026 10:33 PM
