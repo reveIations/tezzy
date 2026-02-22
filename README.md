@@ -5,7 +5,7 @@ he might take it down after this but u can just compare his repos and the people
 <img width="972" height="576" alt="image" src="https://github.com/user-attachments/assets/fa2aa849-c5c4-4e35-8a9b-a154daff94d0" />
 
 
-new github - https://github.com/2020Ralph
+new github - https://github.com/sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfdfsdf
 
 https://tezzybtw.vercel.app (his biopage, fully ai generated if u can look at it), edit: he took it down as of 2/21/2026 10:33 PM
 
