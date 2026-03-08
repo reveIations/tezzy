@@ -12,7 +12,7 @@ to skid it, join https://discord.gg/lanyard in src look for "732275651385753753"
 # MORE PROOF THIS IS TEZZY
 
 <img width="652" height="511" alt="Screenshot 2026-03-07 105221" src="https://github.com/user-attachments/assets/3c1e39ff-71c8-448a-9093-471d8a7b4376" />
-<img width="613" height="780" alt="image" src="https://github.com/user-attachments/assets/795937c7-a203-46d4-8ccb-1bf2890299c9" />
+<img width="613" height="780" alt="image" src="https://github.com/user-attachments/assets/795937c7-a203-46d4-8ccb-1bf2890299c9" /> (via https://oathnet.org)
 
 
 
