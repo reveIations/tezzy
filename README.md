@@ -7,7 +7,12 @@ also proves this is tezzy:
 ## update 2/22/2026 12:28 AM added his website src (https://github.com/reveIations/tezzy/blob/main/biopage.html)
 to skid it, join https://discord.gg/lanyard in src look for "732275651385753753" replace with ur own discord userid and look thru code for more stuff to change
 
-# https://api.github.com/user/184765779 (he deleted his github account, this doesnt work anymore)
+# https://github.com/F3XR?tab=repositories (new github yur)
+# https://api.github.com/user/261681582 (new acc id yo)
+
+proof dis him:
+<img width="652" height="511" alt="Screenshot 2026-03-07 105221" src="https://github.com/user-attachments/assets/3c1e39ff-71c8-448a-9093-471d8a7b4376" />
+
 
 
 Also i added his pasted backend to the github for you skids! (https://github.com/reveIations/tezzy/raw/refs/heads/main/Solar%20Backend.zip)
