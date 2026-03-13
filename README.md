@@ -1,4 +1,5 @@
 userid - 732275651385753753 (@3kgw on discord, you can compare uids)
+alt account discord id - 1157821193664090234
 also proves this is tezzy:
 
 
